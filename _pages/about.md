@@ -25,28 +25,23 @@ redirect_from:
 
 ## Research / 研究方向
 
-<p class="section-intro">My work explores how vision and language systems can locate, retrieve, reason over, and efficiently revisit visual evidence.</p>
+<p class="section-intro">My research focuses on efficient multimodal large-model reasoning, embodied intelligence, and vision-language models.</p>
 
 <div class="research-grid">
   <article class="research-card">
     <p class="research-card__index">01</p>
-    <h3>Multimodal Learning</h3>
-    <p>Learning robust visual-language representations across images, videos, and text.</p>
+    <h3>Efficient Multimodal Large-Model Reasoning</h3>
+    <p>高效多模态大模型推理</p>
   </article>
   <article class="research-card">
     <p class="research-card__index">02</p>
-    <h3>Visual Grounding</h3>
-    <p>Aligning language with fine-grained visual regions and temporal moments.</p>
+    <h3>Embodied Intelligence</h3>
+    <p>具身智能</p>
   </article>
   <article class="research-card">
     <p class="research-card__index">03</p>
-    <h3>Video-Language Understanding</h3>
-    <p>Retrieval and grounding for long, multi-event video descriptions.</p>
-  </article>
-  <article class="research-card">
-    <p class="research-card__index">04</p>
-    <h3>Efficient Multimodal Reasoning</h3>
-    <p>Reusing visual evidence for interleaved reasoning without replaying the past.</p>
+    <h3>Vision-Language Models</h3>
+    <p>视觉语言模型</p>
   </article>
 </div>
 
