@@ -1,0 +1,16 @@
+# Main navigation
+main:
+  - title: "About / 关于我"
+    url: "/#about-me"
+
+  - title: "Research / 研究"
+    url: "/#research"
+
+  - title: "News / 动态"
+    url: "/#news"
+
+  - title: "Publications / 论文"
+    url: "/#publications"
+
+  - title: "Education / 教育"
+    url: "/#education"
