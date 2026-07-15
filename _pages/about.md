@@ -120,8 +120,22 @@ redirect_from:
 
 <div class="visitor-count" aria-live="polite">
   <span class="visitor-count__label">访问统计</span>
-  <span>总访问量 <strong id="busuanzi_site_pv">--</strong> 次</span>
-  <span class="visitor-count__divider" aria-hidden="true">·</span>
-  <span>访客 <strong id="busuanzi_site_uv">--</strong> 人</span>
+  <span>总访问量 <strong id="site_visit_count">--</strong> 次</span>
 </div>
-<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
+<script>
+  (function () {
+    var counter = document.getElementById('site_visit_count');
+    if (!counter) return;
+    fetch('https://api.counterapi.dev/v1/wangmengzhao123-homepage/homepage-visits/up', { cache: 'no-store' })
+      .then(function (response) {
+        if (!response.ok) throw new Error('Counter request failed');
+        return response.json();
+      })
+      .then(function (data) {
+        counter.textContent = Number(data.count).toLocaleString('en-US');
+      })
+      .catch(function () {
+        counter.textContent = '暂不可用';
+      });
+  })();
+</script>
