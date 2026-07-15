@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Mengzhao Wang | 王盟召"
-excerpt: "Ph.D. student at Sun Yat-sen University working on multimodal learning."
+excerpt: "Ph.D. student at Sun Yat-sen University working on efficient multimodal large-model reasoning, embodied intelligence, and vision-language models."
 author_profile: true
 redirect_from:
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
   <p class="hero-card__eyebrow">PH.D. STUDENT · SUN YAT-SEN UNIVERSITY</p>
   <h1 class="hero-card__title">Mengzhao Wang <span>王盟召</span></h1>
   <p class="hero-card__lead">I am a first-year Ph.D. student at the <strong>School of Intelligent Systems Engineering, Sun Yat-sen University</strong> (Shenzhen Campus), advised by Prof. Yanli Ji. Previously, I was a master's student at the Faculty of Information Engineering and Automation, Kunming University of Science and Technology, advised by Prof. Huafeng Li.</p>
-  <p class="hero-card__lead hero-card__lead--cn" lang="zh-CN">目前就读于中山大学深圳校区智能工程学院，研究兴趣包括多模态学习、视觉定位、视频语言理解与高效多模态推理。</p>
+  <p class="hero-card__lead hero-card__lead--cn" lang="zh-CN">目前就读于中山大学深圳校区智能工程学院，研究兴趣包括高效多模态大模型推理、具身智能与视觉语言模型。</p>
   <div class="hero-card__actions">
     <a class="hero-card__action hero-card__action--primary" href="https://scholar.google.com/citations?user=39XYZ-QAAAAJ&hl=en">Google Scholar</a>
     <a class="hero-card__action" href="https://github.com/wangmzh53">GitHub</a>
