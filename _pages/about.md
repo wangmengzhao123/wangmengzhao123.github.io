@@ -119,23 +119,28 @@ redirect_from:
 </div>
 
 <div class="visitor-count" aria-live="polite">
-  <span class="visitor-count__label">访问统计</span>
-  <span>总访问量 <strong id="site_visit_count">--</strong> 次</span>
+  <span class="visitor-count__locale" lang="en">Visit Stats · Total Visits <strong id="site_visit_count_en">--</strong></span>
+  <span class="visitor-count__divider" aria-hidden="true">|</span>
+  <span class="visitor-count__locale" lang="zh-CN">访问统计 · 总访问量 <strong id="site_visit_count_zh">--</strong></span>
 </div>
 <script>
   (function () {
-    var counter = document.getElementById('site_visit_count');
-    if (!counter) return;
+    var englishCounter = document.getElementById('site_visit_count_en');
+    var chineseCounter = document.getElementById('site_visit_count_zh');
+    if (!englishCounter || !chineseCounter) return;
     fetch('https://api.counterapi.dev/v1/wangmengzhao123-homepage/homepage-visits/up', { cache: 'no-store' })
       .then(function (response) {
         if (!response.ok) throw new Error('Counter request failed');
         return response.json();
       })
       .then(function (data) {
-        counter.textContent = Number(data.count).toLocaleString('en-US');
+        var count = Number(data.count).toLocaleString('en-US');
+        englishCounter.textContent = count;
+        chineseCounter.textContent = count;
       })
       .catch(function () {
-        counter.textContent = '暂不可用';
+        englishCounter.textContent = 'Unavailable';
+        chineseCounter.textContent = '暂不可用';
       });
   })();
 </script>

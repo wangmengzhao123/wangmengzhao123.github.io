@@ -465,9 +465,12 @@ body {
   letter-spacing: 0.01em;
 }
 
-.visitor-count__label {
-  color: var(--blue);
-  font-weight: 700;
+.visitor-count__locale {
+  white-space: nowrap;
+}
+
+.visitor-count__divider {
+  color: #a9b4c3;
 }
 
 .visitor-count strong {
