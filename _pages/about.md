@@ -117,3 +117,11 @@ redirect_from:
     <div><h3>Kunming University of Science and Technology</h3><p>Master's student, Faculty of Information Engineering and Automation · Advisor: Prof. Huafeng Li</p></div>
   </article>
 </div>
+
+<div class="visitor-count" aria-live="polite">
+  <span class="visitor-count__label">访问统计</span>
+  <span>总访问量 <strong id="busuanzi_site_pv">--</strong> 次</span>
+  <span class="visitor-count__divider" aria-hidden="true">·</span>
+  <span>访客 <strong id="busuanzi_site_uv">--</strong> 人</span>
+</div>
+<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
