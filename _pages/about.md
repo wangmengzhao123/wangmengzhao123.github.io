@@ -71,7 +71,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://doi.org/10.1109/TIP.2025.3630883"><img src="images/papers/inter-intra-video-relations.png" alt="Overview figure for multi-event video-text retrieval and grounding" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://doi.org/10.1109/TIP.2025.3630883"><img src="images/papers/inter-intra-video-relations.png" alt="Model architecture for multi-event video-text retrieval and grounding" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">IEEE Transactions on Image Processing (TIP) · 2025</p>
     <h3><a href="https://doi.org/10.1109/TIP.2025.3630883">Disentangling Inter- and Intra-Video Relations for Multi-Event Video-Text Retrieval and Grounding</a></h3>
@@ -82,7 +82,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3565981"><img src="images/papers/dual-task-video-paragraph.png" alt="Overview figure for joint video paragraph retrieval and grounding" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3565981"><img src="images/papers/dual-task-video-paragraph.png" alt="Model architecture for joint video paragraph retrieval and grounding" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">IEEE Transactions on Multimedia (TMM) · 2025</p>
     <h3><a href="https://doi.org/10.1109/TMM.2025.3565981">Dual-Task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding</a></h3>
@@ -93,7 +93,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3535345"><img src="images/papers/phrase-decoupling-visual-grounding.png" alt="Overview figure for phrase decoupling visual grounding" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3535345"><img src="images/papers/phrase-decoupling-visual-grounding.png" alt="Model architecture for phrase decoupling visual grounding" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">IEEE Transactions on Multimedia (TMM) · 2025</p>
     <h3><a href="https://doi.org/10.1109/TMM.2025.3535345">Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding</a></h3>
