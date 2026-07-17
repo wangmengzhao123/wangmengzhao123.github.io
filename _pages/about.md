@@ -60,7 +60,7 @@ redirect_from:
 ## Selected Publications / 代表论文
 
 <div class="paper-box paper-box--featured">
-  <div class="paper-box-image"><a href="https://arxiv.org/abs/2606.26631"><img src="images/papers/position-rebinding-cache-reuse.png" alt="Overview figure for Position Rebinding Cache Reuse" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://arxiv.org/abs/2606.26631"><img src="images/papers/position-rebinding-cache-reuse.png?v=publication-figures-2" alt="Overview figure for Position Rebinding Cache Reuse" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">arXiv preprint · 2026</p>
     <h3><a href="https://arxiv.org/abs/2606.26631">Position Rebinding Cache Reuse: Replay-Free Visual Revisiting for Interleaved Multimodal Reasoning</a></h3>
@@ -71,7 +71,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://doi.org/10.1109/TIP.2025.3630883"><img src="images/papers/inter-intra-video-relations.png" alt="Model architecture for multi-event video-text retrieval and grounding" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://doi.org/10.1109/TIP.2025.3630883"><img src="images/papers/inter-intra-video-relations.png?v=publication-figures-2" alt="Model architecture for multi-event video-text retrieval and grounding" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">IEEE Transactions on Image Processing (TIP) · 2025</p>
     <h3><a href="https://doi.org/10.1109/TIP.2025.3630883">Disentangling Inter- and Intra-Video Relations for Multi-Event Video-Text Retrieval and Grounding</a></h3>
@@ -82,7 +82,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3565981"><img src="images/papers/dual-task-video-paragraph.png" alt="Model architecture for joint video paragraph retrieval and grounding" loading="lazy"></a></div>
+  <div class="paper-box-image"><a href="https://doi.org/10.1109/TMM.2025.3565981"><img src="images/papers/dual-task-video-paragraph.png?v=publication-figures-2" alt="Model architecture for joint video paragraph retrieval and grounding" loading="lazy"></a></div>
   <div class="paper-box-text">
     <p class="paper-box__venue">IEEE Transactions on Multimedia (TMM) · 2025</p>
     <h3><a href="https://doi.org/10.1109/TMM.2025.3565981">Dual-Task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding</a></h3>
